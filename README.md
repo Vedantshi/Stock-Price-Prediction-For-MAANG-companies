@@ -4,7 +4,11 @@
 This project leverages a Long Short-Term Memory (LSTM) model to predict stock prices using historical data. By employing machine learning techniques, the model generates accurate forecasts to help identify potential investment opportunities. Visualizations are integrated to showcase insights into stock trends and patterns, making complex data easier to understand.
 
 ## Project Preview
-![Stock Prediction Visualization](Stock_Prediction.png)
+![Stock Prediction Visualization](Area_Chart.png)
+![Stock Prediction Visualization](Candlestick_Chart.png)
+![Stock Prediction Visualization](Faceted_Area.png)
+![Stock Prediction Visualization](Line_Chart_with_Moving_Averages.png)
+![Stock Prediction Visualization](LineChart.png)
 
 ## Key Features
 
