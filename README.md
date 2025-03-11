@@ -27,14 +27,23 @@ This project leverages a Long Short-Term Memory (LSTM) model to predict stock pr
   - `Matplotlib` & `Seaborn` for compelling data visualizations.  
   - `TensorFlow/Keras` for building and training the LSTM model.
 
-## How to Use
-1. Clone the repository to your local system.  
-2. Install the required libraries using:
+# How to Use
+
+1. **Download all the files**:
+   - Download the repository and save it to your local system.
+
+2. **Extract the Dataset Zip**:
+   - Extract the zip file containing the dataset to a folder of your choice.
+
+3. **Install the required libraries**:
+   Run the following command in your terminal or command prompt:
    ```bash
    pip install numpy pandas matplotlib seaborn tensorflow keras
-3. Open the Jupyter Notebook file LSTM_prediction.ipynb.
-4. Follow the step-by-step instructions to load data, preprocess it, train the model, and visualize results.
-
+4. **Update the file path for the dataset:** In the Jupyter Notebook LSTM_prediction.ipynb, locate the following line and replace the path **r'C:\Users\Vedant\Desktop\Portfolio\Stock Price Forecasting\Dataset'** with the actual path to the folder where the dataset is located on your local machine:
+    ```bash
+    for dirname, _, filenames in os.walk(r'C:\Users\Vedant\Desktop\Portfolio\Stock Price Forecasting\Dataset'):
+5. **Run the notebook:** Follow the step-by-step instructions to load the data, preprocess it, train the model, and visualize the results.
+  
 ## Insights & Recommendations
 - The model effectively captures stock price trends but may show limitations during volatile market conditions.  
 - For improved accuracy, consider adding more features like trading volume or technical indicators.  
