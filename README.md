@@ -39,4 +39,8 @@ This project leverages a Long Short-Term Memory (LSTM) model to predict stock pr
 ## Future Enhancements
 - Fine-tune the LSTM model by optimizing hyperparameters.  
 - Integrate live data feeds to enable real-time stock price prediction.  
-- Expand the model to predict multiple stock indices for comprehensive analysis.  
+- Expand the model to predict multiple stock indices for comprehensive analysis.
+
+## Contact
+
+For questions or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vedantshinde25).
