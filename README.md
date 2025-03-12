@@ -27,7 +27,7 @@ This project leverages a Long Short-Term Memory (LSTM) model to predict stock pr
   - `Matplotlib` & `Seaborn` for compelling data visualizations.  
   - `TensorFlow/Keras` for building and training the LSTM model.
 
-# How to Use
+## How to Use
 
 1. **Download all the files**:
    - Download the repository and save it to your local system.
