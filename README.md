@@ -83,12 +83,14 @@ Visual tools were developed to make complex trends and relationships understanda
 
 ## Tools & Technologies
 
-| Category             | Tools Used                    |
-|----------------------|-------------------------------|
-| Data Handling        | Pandas, NumPy                 |
-| Visualization        | Matplotlib, Seaborn           |
-| Machine Learning     | TensorFlow, Keras             |
-| Development Environment | Jupyter Notebook            |
+- **Data Handling**: Pandas, NumPy
+
+- **Visualization**: Matplotlib, Seaborn
+
+- **Machine Learning**: TensorFlow, Keras
+
+- **Development Environment**: Jupyter Notebook
+
 
 ---
 
